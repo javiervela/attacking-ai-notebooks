@@ -1,4 +1,5 @@
 # Fast Gradient Sign Method Adversarial Attack
 
-![](img/s14355404252022.png)
+- [PDF](Fast_Gradient_Sign_Method_Adversarial_Attack.pdf)
 
+![](img/s14355404252022.png)
